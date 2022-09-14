@@ -1,0 +1,197 @@
+#tagscloud{
+	width:1280px;
+	height:788px;
+	position:relative;
+	font-size:12px;
+	color:#333;
+	margin:20px auto 0;
+	text-align:center;
+	position: relative;
+    top: -34px;
+    left: -95px;
+}
+#tagscloud span{
+	position:absolute;
+	top:0px;
+	left:0px;
+	color:#333;
+	text-decoration:none;
+	margin:0 10px 15px 0;
+	line-height:1.2;
+	text-align:center;
+	font-size:12px;
+	padding:1px 5px;
+	display:inline-block;
+	border-radius:3px;
+	white-space: nowrap;
+	cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+#tagscloud span.tagc2{
+  font-size: 23px;
+  color: rgb(45, 76, 125);
+  font-weight: bold;
+}
+
+#tagscloud span.tagc4{
+  font-size: 34px;
+  color: rgb(45, 76, 125);
+}
+
+
+#tagscloud span.tagc8{
+  font-size: 22px;
+  color: rgb(255, 255, 255);
+  
+}
+
+#tagscloud span.tagc18{
+  font-size: 30px;
+  color: rgb(255, 255, 255);
+  
+}
+
+#tagscloud span.tagc19{
+  font-size: 34px;
+  color: rgb(255, 255, 255);
+}
+
+
+#tagscloud span.tagc3{
+  font-size: 39px;
+  color: rgb(45, 76, 125);
+ 
+}
+
+#tagscloud span.tagc5{
+  font-size: 36px;
+  color: rgb(45, 76, 125);
+  font-weight: bold;
+  
+}
+
+#tagscloud span.tagc1{  
+font-size: 24px;
+  color: rgb(45, 76, 125);
+  text-align: center;
+ 
+}
+
+
+#tagscloud span.tagc6{  
+  font-size: 17px;
+  color: rgb(45, 76, 125);
+ 
+}
+
+#tagscloud span.tagc7{  
+  font-size: 34px;
+  color: rgb(255, 255, 255);
+
+}
+
+#tagscloud span.tagc20{  
+  font-size: 20px;
+  color: rgb(255, 255, 255);
+  
+}
+
+
+#tagscloud span.tagc21{    
+	font-size: 38px;
+  color: rgb(45, 76, 125);
+  font-weight: 500;
+}
+
+#tagscloud span.tagc10{    
+
+  font-size: 19px;
+  color: rgb(45, 76, 125);
+  line-height: 1.2;
+
+}
+
+
+#tagscloud span.tagc22{    
+  font-size: 61px;
+  color: rgb(45, 76, 125);
+  font-weight: 500;
+}
+
+ #tagscloud span.tagc23{    
+
+  font-size: 12px;
+  color: rgb(45, 76, 125);
+ 
+}
+
+ #tagscloud span.tagc24{    
+  font-size: 22px;
+  color: rgb(255, 255, 255);
+  font-weight: 500;
+}
+
+ #tagscloud span.tagc25 {    
+  font-size: 31px;
+  color: rgb(45, 76, 125);
+
+}
+
+ #tagscloud span.tagc26 {    
+  font-size: 45px;
+  color: rgb(255, 255, 255);
+ font-weight: 500;
+}
+
+ #tagscloud span.tagc27 {    
+  font-size: 36.595px;
+  color: rgb(255, 255, 255);
+ 
+}
+
+ #tagscloud span.tagc29 {    
+  font-size: 36px;
+  color: rgba(45, 76, 125, 0.4);
+  font-weight: bold;
+  
+}
+
+ #tagscloud span.tagc30 {    
+  font-size: 20px;
+  color: rgb(255, 255, 255);
+  
+}
+
+ #tagscloud span.tagc31 {    
+  font-size: 28px;
+  color: rgb(45, 76, 125);
+ 
+}
+
+ #tagscloud span.tagc32 {    
+  font-size: 49px;
+  color: rgb(45, 76, 125);
+  
+}
+
+ #tagscloud span.tagc33 {    
+  font-size: 17px;
+  color: rgb(45, 76, 125);
+  text-align: center;
+
+}
+
+
+
+#tagscloud span:hover{
+	color:#fff !important;
+	background:rgb(45, 76, 125);
+}
